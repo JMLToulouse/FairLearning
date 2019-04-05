@@ -1,4 +1,6 @@
-# FairLearning
+# Fairness in Machine Learning
+
+# This page is a collaborative page from several authors from University of Valladolid (P. Gordaliza, H. Inouzhe, E. del Barrio) from University of Toulouse (P. Besse, N. Couellan, J-M. Loubes, L. Risser)
 
 
  The whole machinery of Machine Learning techniques relies on the fact that a decision rule can be learnt by looking at a set of labeled examples called the learning sample.  Then this decision is applied to the whole population which is assumed to follow the same underlying distribution. In many cases, learning samples may present biases either due to the presence of a real but unwanted bias in the observations (societal bias for instance) or due to the way the data are processed (multiple sensors, parallelized inference, evolution in the distribution or unbalanced sample...) Hence  the goal of this research is twofold :  to detect, analyze and remove such biases, which is called  fair leaning ;  then understand the way the biases are created and  provide more robust, certifiable and explainable methods to tackle the distributional effects in machine learning including transfert learning, consensus learning, theoretical bounds and robustness.
